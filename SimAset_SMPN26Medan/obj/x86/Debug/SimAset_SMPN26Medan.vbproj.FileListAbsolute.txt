@@ -1,0 +1,10 @@
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\bin\Debug\SimAset_SMPN26Medan.exe
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\bin\Debug\SimAset_SMPN26Medan.pdb
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\bin\Debug\SimAset_SMPN26Medan.xml
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\obj\x86\Debug\SimAset_SMPN26Medan.MainMenu.resources
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\obj\x86\Debug\SimAset_SMPN26Medan.Resources.resources
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\obj\x86\Debug\SimAset_SMPN26Medan.vbproj.GenerateResource.Cache
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\obj\x86\Debug\SimAset_SMPN26Medan.exe
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\obj\x86\Debug\SimAset_SMPN26Medan.xml
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\obj\x86\Debug\SimAset_SMPN26Medan.pdb
+D:\Program\percobaan\CobaVisualStudio\SimAset_SMPN26Medan\SimAset_SMPN26Medan\obj\x86\Debug\SimAset_SMPN26Medan.Login.resources
